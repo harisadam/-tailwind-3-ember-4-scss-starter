@@ -6,11 +6,12 @@ Dependencies:
 - postcss-import
 - postcss-scss
 - tailwindcss
+- tailwindcss
 
 
 ```
   /* tailwind.config.js */
-  
+
   module.exports = {
     content: [
       "./app/components/**/*.{html,js,hbs}",
